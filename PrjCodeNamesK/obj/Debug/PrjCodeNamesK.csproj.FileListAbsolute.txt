@@ -1,0 +1,11 @@
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\bin\Debug\PrjCodeNamesK.exe.config
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\bin\Debug\PrjCodeNamesK.exe
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\bin\Debug\PrjCodeNamesK.pdb
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.csproj.AssemblyReference.cache
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.csproj.SuggestedBindingRedirects.cache
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.Properties.Resources.resources
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.csproj.GenerateResource.cache
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.csproj.CoreCompileInputs.cache
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.exe
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.pdb
+C:\Users\31042\source\repos\PrjCodeNamesK\PrjCodeNamesK\obj\Debug\PrjCodeNamesK.FormPlayground.resources
